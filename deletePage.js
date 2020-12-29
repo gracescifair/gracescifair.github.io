@@ -1,3 +1,3 @@
 function eraseContent() {
-  document.getElementById('content').innerHTML = '';
+  document.getElementById('content').remove();
 }
