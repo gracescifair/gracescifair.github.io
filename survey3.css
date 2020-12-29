@@ -1,12 +1,12 @@
-h1, h2, h3, h4, h5, h6, p {	
-	color: #6D93BF;
+p {	
+	color: #FFFFFF;
 	font-family: 'Times New Roman', serif;
 	padding-top: 30px;
 	text-transform: uppercase;
 }
 
+
 .content {
          width: 85%;
          margin-left: 7.5%;
 }
-
