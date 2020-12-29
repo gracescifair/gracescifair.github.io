@@ -1,3 +1,3 @@
 function eraseContent() {
-  document.documentElement.innerHTML = '';
+  document.getElementsByClassName('content').innerHTML = '';
 }
