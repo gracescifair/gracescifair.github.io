@@ -1,8 +1,11 @@
 p {	
 	color: #FFFFFF;
-	background-color: #000000;
 	font-family: 'Times New Roman', serif;
 	text-transform: uppercase;
+}
+
+body {
+	background-color: #000000;
 }
 
 .content {
