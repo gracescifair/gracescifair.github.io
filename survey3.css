@@ -4,6 +4,9 @@ p {
 	text-transform: uppercase;
 }
 
+.btn-outline-light {
+	font-family: 'Times New Roman', serif;
+}
 
 .content {
          width: 85%;
