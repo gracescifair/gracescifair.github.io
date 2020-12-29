@@ -6,6 +6,6 @@ var links = [
 
 function randomLink() {
   var randomNumber = Math.floor(Math.random() * (links.length));
-  document.getElementsById("link").href = links[randomNumber];
+  document.getElementsById("link").innerHTML = links[randomNumber];
 }
 
