@@ -1,7 +1,7 @@
 var links = [
-  'https://gracescifair.github.io/survey1',
-  'https://gracescifair.github.io/survey2',
-  'https://gracescifair.github.io/survey3'
+  'survey1',
+  'survey2',
+  'survey3'
 ]
 
 function randomLink() {
