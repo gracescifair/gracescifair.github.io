@@ -6,6 +6,6 @@ var links = [
 
 function randomLink() {
   var randomNumber = Math.floor(Math.random() * (links.length));
-  documents.getElementById('link').innerHTML = links[randomNumber];
+  documents.innerHTML = $('a[href="link"]').text(); = links[randomNumber];
 }
 
