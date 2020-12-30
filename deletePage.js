@@ -1,11 +1,7 @@
 function eraseContent() {
   
-    var first = document.getElementById("first");
-    var second = document.getElementById("second");
-    var third = document.getElementById("third");
-    
-    first.parentNode.removeChild("first");
-    second.parentNode.removeChild("second");
-    third.parentNode.removeChild("third");
+    document.getElementById("first").innerHTML = "";
+    document.getElementById("second").innerHTML = "";
+    document.getElementById("third").innerHTML = "";
   
 }
