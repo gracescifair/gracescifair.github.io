@@ -1,6 +1,11 @@
-function eraseContent(elementId) {
-  document.getElementById("first").remove();
-  document.getElementById("second").remove();
-  document.getElementById("third").remove();
+function eraseContent() {
+  
+    var first = document.getElementById("first");
+    var second = document.getElementById("second");
+    var third = document.getElementById("third");
+    
+    first.parentNode.removeChild("first");
+    second.parentNode.removeChild("second");
+    third.parentNode.removeChild("third");
   
 }
