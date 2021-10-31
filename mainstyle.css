@@ -36,3 +36,7 @@ p a, li a {
 	 padding-top: 5%;
 	 padding-bottom: 5%;
 }
+
+.btn {
+	font-size: 1.75rem;
+}
