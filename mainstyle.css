@@ -4,24 +4,27 @@ h1 {
 	color: #000000;
 	font-family: 'Manrope', sans-serif;
 	text-transform: uppercase;
+	text-align: left;
 }
 
 h2 {
 	color: #282828;
 	font-family: 'Manrope', sans-serif;
 	font-size: 1.2rem;
+	text-align: left;
 }
 
 h3, h4, h5, h6 {
 	font-family: 'Manrope', sans-serif;
 	color: #383838;
+	text-align: left;
 }
 
 p, li {
 	font-family: 'Montserrat', sans-serif;
 	color: #404040;
 	font-size: 1.2rem;
-	text-align: justify;
+	text-align: left;
 }
 
 p a, li a {
